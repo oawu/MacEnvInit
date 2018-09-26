@@ -7,7 +7,7 @@
 ## 啟用 Packages
   
   * 網站介紹 - [https://packagecontrol.io/installation#st2](https://packagecontrol.io/installation#st2)
-  * 打開 Sublime Text 2，按下 `ctrl + esc`
+  * 打開 Sublime Text 2，按下 `ctrl + ~`
   * 輸入以下後按 Enter
 
 ``` python
